@@ -1,0 +1,41 @@
+.meusFilmes {
+    margin: 0 auto;
+    max-width: 800px;
+    margin-top: 18px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 8px;
+    text-align: center;
+    color: white;
+
+}
+.meusFilmes h1 {
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.meusFilmes ul {
+    text-decoration: none;
+    color: white;
+    
+}
+.meusFilmes ul li {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.meusFilmes ul li a {
+    text-decoration: none;
+    color: white;
+}
+.meusFilmes div {
+    margin-top: 5px;
+}
+.meusFilmes button {
+    background-color: #595b5e79;
+    color: white;
+    margin-left: 10px;
+    height: 20px;
+    width: 50px;
+}
